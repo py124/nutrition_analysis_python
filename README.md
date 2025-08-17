@@ -1,4 +1,5 @@
 🍎 **Nutrition Dataset Analysis**
+
 🧠 **Overview**
 
 Nutrition plays a vital role in maintaining good health and preventing chronic diseases. This project analyzes a nutrition dataset to understand dietary patterns, caloric intake, and nutrient distribution. The goal is to uncover meaningful insights about how different food choices impact health and lifestyle, helping promote balanced diets and informed decisions.
